@@ -1,0 +1,1 @@
+# Gestione file .trixym (json)
